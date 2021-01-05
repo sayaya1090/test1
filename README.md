@@ -7,9 +7,11 @@ Spring boot, gradle 프로젝트로 생성되었습니다.
 IntelliJ와 같은 IDE를 사용한다면 아래와 같이 bootRun task를 실행하여 로컬 PC에서 서버를 구동할 수 있습니다. 
 ![image](https://user-images.githubusercontent.com/9067899/103610891-76007f00-4f64-11eb-9d97-e78e82c971b5.png)
 
+
 디렉토리 구조는
-/src/main/java               // 서버 사이드 Java 코드
-         /resource/static    // 클라이언트 사이드 html, js, css 파일
+
+/src/main/java               : 서버 사이드 Java 코드
+/src/main/resource/static    : 클라이언트 사이드 html, js, css 파일
 
 로 되어 있습니다. 
 
