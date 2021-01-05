@@ -11,6 +11,7 @@ IntelliJ와 같은 IDE를 사용한다면 아래와 같이 bootRun task를 실�
 디렉토리 구조는
 
 /src/main/java               : 서버 사이드 Java 코드
+
 /src/main/resource/static    : 클라이언트 사이드 html, js, css 파일
 
 로 되어 있습니다. 
